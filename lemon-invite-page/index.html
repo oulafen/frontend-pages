@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="utf-8">
+<head>
+    <meta charset="UTF-8">
+    <title>柠檬跑步</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+<div class="container add-wx-container">
+    <div class="box">
+        <div class="header">
+            柠檬邀请函
+        </div>
+        <div class="info-box">
+            <img src="images/avatar.jpg" data-src="" alt="">
+            <p class="name">oulafen</p>
+            <div class="yun yun-left"></div>
+            <p class="desc">
+                我已经在<span style="color: #ffcc00;">柠檬跑步</span>跑了<span class="num">13.14</span>公里了
+            </p>
+            <div class="yun yun-right"></div>
+            <div class="invite-desc">
+                <p>别再一个人孤单单地跑步啦，</p>
+                <p>来柠檬和我开个房一起跑吧！</p>
+            </div>
+            <div class="arrow"></div>
+            <a href="http://a.app.qq.com/o/simple.jsp?pkgname=com.sport.lemonrunning" class="btn"><span>点击下载APP</span></a>
+        </div>
+    </div>
+    <div class="footer">
+        <div class="footer-right"></div>
+        <div class="bottom"></div>
+        <div class="footer-left"></div>
+    </div>
+</div>
+<script src="../js/zepto.min.js"></script>
+<script src="../js/base.js"></script>
+<script>
+    $(function(){
+        setContainer();
+        window.onresize = function(){
+            setContainer();
+        }
+    })
+
+    function setContainer(){
+        var w_h = $(window).height();
+        $('.container').css('height', w_h);
+    }
+</script>
+</body>
+</html>
