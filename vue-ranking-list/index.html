@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>3k竞速榜</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <link rel="stylesheet" href="css/ranking.min.css">
+    <script src="js/plugin/vue.js"></script>
+    <script src="js/plugin/vue.lazyimg.min.js"></script>
+    <script src="js/plugin/iscroll-probe.js"></script>
+</head>
+<body>
+<div class="container">
+    <div class="ranking-list-content">
+        <div class="header">
+            <a class="more-desc-link" href="javascript:void(0);" v-on:click="showRulePop">规则说明</a>
+            <img src="images/ranking/header1.jpg" alt="">
+        </div>
+        <div class="drop-menu" v-bind:class="{'drop-menu-show': popShow}">
+            <p class="title">规则说明</p>
+            <p>1. 本榜单是以3km配速进行的排行</p>
+            <p>2. 榜单每周一 00:00 清空更新</p>
+            <p>3. 每2小时一次动态更新排名和数据</p>
+        </div>
+        <div class="filter" v-bind:class="{'show': popShow }" v-on:click="hideRulePop"></div>
+
+        <div class="list self-rank-info" v-if="user">
+            <div class="box">
+                <div class="order">{{ user.place | resetSelfPlace }}</div>
+                <div class="avatar">
+                    <img v-bind:src="user.avatar" alt="">
+                </div>
+            </div>
+            <div class="box">
+                <p class="name"  v-bind:class="{'female': user.sex, 'male': !user.sex }">{{ user.name | subString 14 }}</p>
+            </div>
+            <div class="box">
+                <div class="num">{{ user.value | formatDuration }}</div>
+            </div>
+        </div>
+
+        <div id="wrapper">
+            <ul class="lists J-lists">
+                <li v-for="list in lists" track-by="$index" v-bind:class="[$index < 3 ? 'tops top-' + ($index + 1) : '', listStyle[$index] ]" >
+                    <div class="box">
+                        <div class="order">{{ $index < 3 ? '' : $index + 1 }}</div>
+                        <div class="avatar">
+                            <img src="images/avatar-default.png" v-lazyload:opt.fadein="list.avatar" alt="">
+                        </div>
+                    </div>
+                    <div class="box">
+                        <p class="name" v-bind:class="{'female': list.sex, 'male': !list.sex }">{{ list.name | subString 14 }}</p>
+                    </div>
+                    <div class="box">
+                        <div class="num">{{ list.value | formatDuration }}</div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+
+    </div>
+
+    <script src="http://res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+    <script src="js/plugin/zepto.min.js"></script>
+    <script src="js/plugin/dropload.js"></script>
+    <script src="js/base.js"></script>
+    <script src="js/vue_ranking.js"></script>
+    <script>
+        $(function(){
+            loadMore.init();
+        })
+
+    </script>
+</div>
+
+</body>
+</html>

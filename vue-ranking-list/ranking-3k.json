@@ -1,0 +1,714 @@
+{
+    "data": {
+    "list": [
+        {
+            "value": 675,
+            "place": 1,
+            "name": "岳",
+            "avatar": "http://img.runninglemon.com/avatar/9a1310abdcf84ded9d5e94c193b795fd",
+            "sex": 0
+        },
+        {
+            "value": 682,
+            "place": 2,
+            "name": "向宇2016",
+            "avatar": "http://img.runninglemon.com/avatar/E88D5DE17329AE49EC98DE68E2E7F72E",
+            "sex": 1
+        },
+        {
+            "value": 685,
+            "place": 3,
+            "name": "欲问归期",
+            "avatar": "http://img.runninglemon.com/avatar/0ba78c058ab64e70bc4d809f6a27bbd6",
+            "sex": 0
+        },
+        {
+            "value": 690,
+            "place": 4,
+            "name": "小葵",
+            "avatar": "http://img.runninglemon.com/avatar/95a200f9648f422bb337d7080c5002d3",
+            "sex": 0
+        },
+        {
+            "value": 700,
+            "place": 5,
+            "name": "情绪",
+            "avatar": "http://img.runninglemon.com/avatar/3862aef8698d445c80fcd8afd6b5598c",
+            "sex": 0
+        },
+        {
+            "value": 725,
+            "place": 6,
+            "name": "好丽友木糖醇",
+            "avatar": "http://img.runninglemon.com/avatar/EDFDD5C7508015607D0FEB7B5DC89095",
+            "sex": 0
+        },
+        {
+            "value": 730,
+            "place": 7,
+            "name": "蓝矾",
+            "avatar": "http://img.runninglemon.com/avatar/1ab0669ca6114fa6b1934ff4388f000e",
+            "sex": 1
+        },
+        {
+            "value": 743,
+            "place": 8,
+            "name": "老謝",
+            "avatar": "http://img.runninglemon.com/avatar/3f3831c2d9f34818bbc57acc876e5440",
+            "sex": 0
+        },
+        {
+            "value": 828,
+            "place": 9,
+            "name": "冰霜雨雪",
+            "avatar": null,
+            "sex": 0
+        },
+        {
+            "value": 840,
+            "place": 10,
+            "name": "峰回路转",
+            "avatar": "http://img.runninglemon.com/avatar/6fe8431df0a44e1fbb53b7c8a64187e1",
+            "sex": 0
+        },
+        {
+            "value": 866,
+            "place": 11,
+            "name": "小太白",
+            "avatar": "http://img.runninglemon.com/avatar/a7abfcece4e8439998a6d8d9e6544cb2",
+            "sex": 0
+        },
+        {
+            "value": 870,
+            "place": 12,
+            "name": "雄关漫道",
+            "avatar": "http://img.runninglemon.com/avatar/934A4A4076ACA6684A55AD80F0E9EAC2",
+            "sex": 0
+        },
+        {
+            "value": 884,
+            "place": 13,
+            "name": "飘逸的风铃",
+            "avatar": "http://img.runninglemon.com/avatar/23991cca44a84416b089b2d30a45ed30",
+            "sex": 0
+        },
+        {
+            "value": 902,
+            "place": 14,
+            "name": "爱动的小熊",
+            "avatar": "http://img.runninglemon.com/avatar/c2e720220a374e8f8b5d87c205df6d67",
+            "sex": 0
+        },
+        {
+            "value": 902,
+            "place": 15,
+            "name": "青岛恒润奔驰",
+            "avatar": "http://img.runninglemon.com/avatar/eecde0f7704b4a23848e3bbc52f684db",
+            "sex": 0
+        },
+        {
+            "value": 919,
+            "place": 16,
+            "name": "爱跑步爱生活",
+            "avatar": "http://img.runninglemon.com/avatar/18a8427eb7a64017865ad6d4be06630f",
+            "sex": 0
+        },
+        {
+            "value": 944,
+            "place": 17,
+            "name": "Ender",
+            "avatar": null,
+            "sex": 0
+        },
+        {
+            "value": 947,
+            "place": 18,
+            "name": "乐之轩",
+            "avatar": "http://img.runninglemon.com/avatar/81c14e85b7e04ac7a0556dedd5871994",
+            "sex": 0
+        },
+        {
+            "value": 947,
+            "place": 19,
+            "name": "K_Tzekin",
+            "avatar": "http://img.runninglemon.com/avatar/b841e9cb987e426ca3fa6c61ad6a31f6",
+            "sex": 0
+        },
+        {
+            "value": 955,
+            "place": 20,
+            "name": "东门赏雪",
+            "avatar": "http://img.runninglemon.com/avatar/639a504832b64810b1ca78647700b311",
+            "sex": 0
+        },
+        {
+            "value": 961,
+            "place": 21,
+            "name": "柠檬熊",
+            "avatar": "http://img.runninglemon.com/avatar/1012521472118459582",
+            "sex": 0
+        },
+        {
+            "value": 968,
+            "place": 22,
+            "name": "Polar",
+            "avatar": "http://img.runninglemon.com/avatar/b1642ec66beb4656b75aa8208790a68a",
+            "sex": 0
+        },
+        {
+            "value": 970,
+            "place": 23,
+            "name": "王虎",
+            "avatar": "http://img.runninglemon.com/avatar/8a75b28b1c4a4f6f9198e6e6b6f3f42b",
+            "sex": 0
+        },
+        {
+            "value": 974,
+            "place": 24,
+            "name": "Leon",
+            "avatar": "http://img.runninglemon.com/avatar/3352a0afc6f1488b8173e4366649e00d",
+            "sex": 0
+        },
+        {
+            "value": 980,
+            "place": 25,
+            "name": "小杰",
+            "avatar": "http://img.runninglemon.com/avatar/046f2e547d7945e093f6276aec1cb82b",
+            "sex": 0
+        },
+        {
+            "value": 985,
+            "place": 26,
+            "name": "BenjaminSo",
+            "avatar": "http://img.runninglemon.com/avatar/EF7C46CEA57ADD53271B00873A02D4D8",
+            "sex": 0
+        },
+        {
+            "value": 988,
+            "place": 27,
+            "name": "早春晨光",
+            "avatar": "http://img.runninglemon.com/avatar/e024747cbe934599ad90dcd4e1a091c2",
+            "sex": 0
+        },
+        {
+            "value": 991,
+            "place": 28,
+            "name": "全星",
+            "avatar": "http://img.runninglemon.com/avatar/efbf3a6a3f614e3ba768fc46acfca678",
+            "sex": 0
+        },
+        {
+            "value": 991,
+            "place": 29,
+            "name": "van",
+            "avatar": null,
+            "sex": 0
+        },
+        {
+            "value": 994,
+            "place": 30,
+            "name": "亮豆豆",
+            "avatar": "http://img.runninglemon.com/avatar/58d6bd2241f14a8eb423ca89373237ad",
+            "sex": 0
+        },
+        {
+            "value": 1001,
+            "place": 31,
+            "name": "老善",
+            "avatar": "http://img.runninglemon.com/avatar/cd77c40da1934ce1bdfa194cd9d6b3ea",
+            "sex": 0
+        },
+        {
+            "value": 1003,
+            "place": 32,
+            "name": "傅正江",
+            "avatar": "http://img.runninglemon.com/avatar/0ef1fe34c7204fbd9f765293ebe93629",
+            "sex": 0
+        },
+        {
+            "value": 1010,
+            "place": 33,
+            "name": "金鑫",
+            "avatar": "http://img.runninglemon.com/avatar/1e3ee21250d645f881ef63057dc47be6",
+            "sex": 0
+        },
+        {
+            "value": 1011,
+            "place": 34,
+            "name": "私奔小能手",
+            "avatar": "http://img.runninglemon.com/avatar/78F6070912D2FE7F6254D50FF58AC269",
+            "sex": 0
+        },
+        {
+            "value": 1026,
+            "place": 35,
+            "name": "Lau爽",
+            "avatar": "http://img.runninglemon.com/avatar/1002101470125906950",
+            "sex": 0
+        },
+        {
+            "value": 1028,
+            "place": 36,
+            "name": "A追梦",
+            "avatar": "http://img.runninglemon.com/avatar/a24f9963ab6e4e6e8425ccc94fe95485",
+            "sex": 0
+        },
+        {
+            "value": 1030,
+            "place": 37,
+            "name": "杨耀珊",
+            "avatar": "http://img.runninglemon.com/avatar/78b3785fc5694366bda3d1fe1da90d3a",
+            "sex": 0
+        },
+        {
+            "value": 1035,
+            "place": 38,
+            "name": "军士长蒋",
+            "avatar": "http://img.runninglemon.com/avatar/a5d04f4c0c904a628804bead5144631b",
+            "sex": 0
+        },
+        {
+            "value": 1042,
+            "place": 39,
+            "name": "跑者肖童",
+            "avatar": "http://img.runninglemon.com/avatar/EEAB9927C4D43D7DEBC581174151B5D1",
+            "sex": 0
+        },
+        {
+            "value": 1050,
+            "place": 40,
+            "name": "Jane",
+            "avatar": "http://img.runninglemon.com/avatar/31351855ad794757bb20f4fe01c44fb9",
+            "sex": 1
+        },
+        {
+            "value": 1051,
+            "place": 41,
+            "name": "史记vv",
+            "avatar": null,
+            "sex": 0
+        },
+        {
+            "value": 1051,
+            "place": 42,
+            "name": "瑜伽普拉提教练李静旋",
+            "avatar": "http://img.runninglemon.com/avatar/c56bcd6bf947460fb81c9d51bdb4a3e7",
+            "sex": 0
+        },
+        {
+            "value": 1051,
+            "place": 43,
+            "name": "Brooks",
+            "avatar": "http://img.runninglemon.com/avatar/1017731472605376333",
+            "sex": 0
+        },
+        {
+            "value": 1055,
+            "place": 44,
+            "name": "张小浪",
+            "avatar": "http://img.runninglemon.com/avatar/C0E0B9870F2C41824BFFF93683E80407",
+            "sex": 0
+        },
+        {
+            "value": 1060,
+            "place": 45,
+            "name": "小山",
+            "avatar": "http://img.runninglemon.com/avatar/33d1b25d28d843f48637bb91f83bafbb",
+            "sex": 0
+        },
+        {
+            "value": 1060,
+            "place": 46,
+            "name": "奋进",
+            "avatar": "http://img.runninglemon.com/avatar/f1b1a510c5bd4015b6b524a9563f15b7",
+            "sex": 0
+        },
+        {
+            "value": 1060,
+            "place": 47,
+            "name": "陈中伟",
+            "avatar": "http://img.runninglemon.com/avatar/08401b062c5144fd88f3b9747f4f7178",
+            "sex": 0
+        },
+        {
+            "value": 1069,
+            "place": 48,
+            "name": "Andre_W",
+            "avatar": "http://img.runninglemon.com/avatar/1002011470018269948",
+            "sex": 0
+        },
+        {
+            "value": 1080,
+            "place": 49,
+            "name": "李亚宏",
+            "avatar": "http://img.runninglemon.com/avatar/97813b7644784367b5ea079ed3111939",
+            "sex": 0
+        },
+        {
+            "value": 1085,
+            "place": 50,
+            "name": "飞龙",
+            "avatar": "http://img.runninglemon.com/avatar/f0a91a0ec4c74859953114d24d7a009c",
+            "sex": 0
+        },
+        {
+            "value": 1090,
+            "place": 51,
+            "name": "晓娴",
+            "avatar": "http://img.runninglemon.com/avatar/d0f0dd21e98e4a9ca790fb5414cb7814",
+            "sex": 1
+        },
+        {
+            "value": 1095,
+            "place": 52,
+            "name": "伟霞",
+            "avatar": "http://img.runninglemon.com/avatar/ce73529f86c34d658bfa8878a4292f69",
+            "sex": 1
+        },
+        {
+            "value": 1095,
+            "place": 53,
+            "name": "lawrence",
+            "avatar": "http://img.runninglemon.com/avatar/FAF266BCF080D8BA2107F65368DE6422",
+            "sex": 0
+        },
+        {
+            "value": 1099,
+            "place": 54,
+            "name": "毛毛闹闹",
+            "avatar": null,
+            "sex": 1
+        },
+        {
+            "value": 1099,
+            "place": 55,
+            "name": "司力",
+            "avatar": "http://img.runninglemon.com/avatar/c7c716c821224a948a4dadcde4555527",
+            "sex": 0
+        },
+        {
+            "value": 1114,
+            "place": 56,
+            "name": "留发和尚",
+            "avatar": "http://img.runninglemon.com/avatar/d939c2d9fcb24a55875c135a9699c407",
+            "sex": 0
+        },
+        {
+            "value": 1121,
+            "place": 57,
+            "name": "雪林",
+            "avatar": "http://img.runninglemon.com/avatar/5485ade15b3a4c09a3885846b96e5b83",
+            "sex": 1
+        },
+        {
+            "value": 1128,
+            "place": 58,
+            "name": "青蛙王子",
+            "avatar": "http://img.runninglemon.com/avatar/8e9571221f684f21be4c83d65ddf2666",
+            "sex": 0
+        },
+        {
+            "value": 1132,
+            "place": 59,
+            "name": "丶Hz",
+            "avatar": "http://img.runninglemon.com/avatar/cb39ede75a304cc9835bd88b4c899f5c",
+            "sex": 0
+        },
+        {
+            "value": 1136,
+            "place": 60,
+            "name": "刘曼冬",
+            "avatar": "http://img.runninglemon.com/avatar/590b62a836aa46b58bdd4339e20fd12f",
+            "sex": 0
+        },
+        {
+            "value": 1137,
+            "place": 61,
+            "name": "柠檬城",
+            "avatar": "http://img.runninglemon.com/avatar/2ECC74DEA70155CC1AF271D9CF5FE748",
+            "sex": 0
+        },
+        {
+            "value": 1145,
+            "place": 62,
+            "name": "皮菜",
+            "avatar": "http://img.runninglemon.com/avatar/13BF92CC17C67F62415CC50261725FEA",
+            "sex": 1
+        },
+        {
+            "value": 1152,
+            "place": 63,
+            "name": "xhz",
+            "avatar": "http://img.runninglemon.com/avatar/f92fdb977fad4b52a081a99c475fa77b",
+            "sex": 0
+        },
+        {
+            "value": 1153,
+            "place": 64,
+            "name": "快乐柠檬",
+            "avatar": "http://img.runninglemon.com/avatar/C44AAC64DC702B62C3D43B12FC5B2A3A",
+            "sex": 1
+        },
+        {
+            "value": 1159,
+            "place": 65,
+            "name": "黄洁蚊",
+            "avatar": "http://img.runninglemon.com/avatar/e06a2425c2b44986bf3e2db6846413f5",
+            "sex": 1
+        },
+        {
+            "value": 1164,
+            "place": 66,
+            "name": "雪儿",
+            "avatar": "http://img.runninglemon.com/avatar/2b0981a82248497f8fe65cbfceccad2f",
+            "sex": 1
+        },
+        {
+            "value": 1169,
+            "place": 67,
+            "name": "小想想可爱多",
+            "avatar": "http://img.runninglemon.com/avatar/d6b8eb5d750a471a9aa505d0d8bd270b",
+            "sex": 0
+        },
+        {
+            "value": 1192,
+            "place": 68,
+            "name": "风吹杨柳",
+            "avatar": "http://img.runninglemon.com/avatar/293d500efff64e968f2acfa149945dd0",
+            "sex": 1
+        },
+        {
+            "value": 1194,
+            "place": 69,
+            "name": "慕白风雨中",
+            "avatar": "http://img.runninglemon.com/avatar/6505633e5f9446e6a068883209fb9376",
+            "sex": 0
+        },
+        {
+            "value": 1205,
+            "place": 70,
+            "name": "勤行道",
+            "avatar": "http://img.runninglemon.com/avatar/c7f790e908544e0babba7422fab3fc39",
+            "sex": 1
+        },
+        {
+            "value": 1210,
+            "place": 71,
+            "name": "沫沫",
+            "avatar": "http://img.runninglemon.com/avatar/052a68f6f5bb438db72926009d829e3f",
+            "sex": 1
+        },
+        {
+            "value": 1234,
+            "place": 72,
+            "name": "杨维军",
+            "avatar": "http://img.runninglemon.com/avatar/46e1d1b76ecb4b7cbedf47a89e032838",
+            "sex": 0
+        },
+        {
+            "value": 1240,
+            "place": 73,
+            "name": "Wen鸡Qi跑",
+            "avatar": "http://img.runninglemon.com/avatar/83a93c2d6f994959a5857d3e72509de3",
+            "sex": 0
+        },
+        {
+            "value": 1244,
+            "place": 74,
+            "name": "*EE*",
+            "avatar": "http://img.runninglemon.com/avatar/3ca12768e499429ba05ec276c5ff8d0b",
+            "sex": 0
+        },
+        {
+            "value": 1244,
+            "place": 75,
+            "name": "羽王",
+            "avatar": "http://img.runninglemon.com/avatar/3f0427cf28344047a0af3e1a82acc0a5",
+            "sex": 0
+        },
+        {
+            "value": 1259,
+            "place": 76,
+            "name": "蠢蠢欲动",
+            "avatar": "http://img.runninglemon.com/avatar/916ddfa75fdb4136bc15ada52cae98cc",
+            "sex": 0
+        },
+        {
+            "value": 1262,
+            "place": 77,
+            "name": "高培红",
+            "avatar": "http://img.runninglemon.com/avatar/1fc32507392345ba95fc4cfc14b5e4b7",
+            "sex": 1
+        },
+        {
+            "value": 1270,
+            "place": 78,
+            "name": "依然美",
+            "avatar": "http://img.runninglemon.com/avatar/d4e0709ae1c544feadc40677f801b2ce",
+            "sex": 1
+        },
+        {
+            "value": 1270,
+            "place": 79,
+            "name": "老高2008",
+            "avatar": "http://img.runninglemon.com/avatar/244192f22ec14d47965f6743e427afd5",
+            "sex": 0
+        },
+        {
+            "value": 1278,
+            "place": 80,
+            "name": "戒八猪是的念来过倒",
+            "avatar": "http://img.runninglemon.com/avatar/E8B2209B5DA4DE1013A575060694DA30",
+            "sex": 1
+        },
+        {
+            "value": 1292,
+            "place": 81,
+            "name": "F大王派我来巡山",
+            "avatar": "http://img.runninglemon.com/avatar/1013321472195154954",
+            "sex": 0
+        },
+        {
+            "value": 1315,
+            "place": 82,
+            "name": "霜霜??",
+            "avatar": "http://img.runninglemon.com/avatar/7f016453b525435aa81a0d9f6d63f451",
+            "sex": 1
+        },
+        {
+            "value": 1326,
+            "place": 83,
+            "name": "回复都护",
+            "avatar": "http://img.runninglemon.com/avatar/070677D7765EE90FD2E8391B6E3BB080",
+            "sex": 0
+        },
+        {
+            "value": 1355,
+            "place": 84,
+            "name": "Bambooner",
+            "avatar": "http://img.runninglemon.com/avatar/5dd482d65214474599369664261be709",
+            "sex": 0
+        },
+        {
+            "value": 1389,
+            "place": 85,
+            "name": "阿秀",
+            "avatar": "http://img.runninglemon.com/avatar/f235d77b9eda437a8399f8d777a11c86",
+            "sex": 1
+        },
+        {
+            "value": 1390,
+            "place": 86,
+            "name": "50mtc",
+            "avatar": null,
+            "sex": 0
+        },
+        {
+            "value": 1421,
+            "place": 87,
+            "name": "李英",
+            "avatar": "http://img.runninglemon.com/avatar/a23235930a754ce9be000539a8e2060f",
+            "sex": 1
+        },
+        {
+            "value": 1429,
+            "place": 88,
+            "name": "小暖",
+            "avatar": "http://img.runninglemon.com/avatar/2f5cc053e75d443f88bb362e6af6f36a",
+            "sex": 1
+        },
+        {
+            "value": 1434,
+            "place": 89,
+            "name": "2006s12mc10",
+            "avatar": "http://img.runninglemon.com/avatar/ad459b9780ee4dd69e0f3a05552c8378",
+            "sex": 1
+        },
+        {
+            "value": 1437,
+            "place": 90,
+            "name": "tea",
+            "avatar": "http://img.runninglemon.com/avatar/367E3F74709EDA79915AA0D290E27FCF",
+            "sex": 0
+        },
+        {
+            "value": 1454,
+            "place": 91,
+            "name": "little阿飞",
+            "avatar": "http://img.runninglemon.com/avatar/335a5c0a71d24800b6ee1aa14f3ca842",
+            "sex": 0
+        },
+        {
+            "value": 1465,
+            "place": 92,
+            "name": "小兔子乖乖",
+            "avatar": "http://img.runninglemon.com/avatar/8c04646c02ef4c00b1a7f0e2a06f0a3e",
+            "sex": 0
+        },
+        {
+            "value": 1481,
+            "place": 93,
+            "name": "周舜舜",
+            "avatar": "http://img.runninglemon.com/avatar/d79d6e7f61a94fcd9b2a6c0740ed41e4",
+            "sex": 0
+        },
+        {
+            "value": 1490,
+            "place": 94,
+            "name": "郭非",
+            "avatar": "http://img.runninglemon.com/avatar/dbc08d8dff5e43529e79e00f845e5431",
+            "sex": 0
+        },
+        {
+            "value": 1504,
+            "place": 95,
+            "name": "Le晴",
+            "avatar": "http://img.runninglemon.com/avatar/83b4441e601c47a2919580ced0d0bcf9",
+            "sex": 1
+        },
+        {
+            "value": 1545,
+            "place": 96,
+            "name": "守望余",
+            "avatar": "http://img.runninglemon.com/avatar/3eeac05ffd514e60b91dae8ba57d6032",
+            "sex": 0
+        },
+        {
+            "value": 1551,
+            "place": 97,
+            "name": "98go",
+            "avatar": "http://img.runninglemon.com/avatar/e42ba0d0d3e346658cc8cdbc97170830",
+            "sex": 1
+        },
+        {
+            "value": 1560,
+            "place": 98,
+            "name": "李宗林",
+            "avatar": "http://img.runninglemon.com/avatar/a05cbdcb0a214636a8cae26664bd3f0c",
+            "sex": 0
+        },
+        {
+            "value": 1590,
+            "place": 99,
+            "name": "米乐",
+            "avatar": "http://img.runninglemon.com/avatar/f6cdcb6141c644a1aad58a5abc652327",
+            "sex": 1
+        },
+        {
+            "value": 1597,
+            "place": 100,
+            "name": "雨坤",
+            "avatar": "http://img.runninglemon.com/avatar/1E2EBBF8A6B31A5EA6CA67D54F10C4F5",
+            "sex": 1
+        }
+    ],
+        "user": {
+        "value": 1192,
+            "place": 68,
+            "name": "风吹杨柳",
+            "avatar": "http://img.runninglemon.com/avatar/293d500efff64e968f2acfa149945dd0",
+            "sex": 1
+    }
+},
+    "error_code": 0
+}
